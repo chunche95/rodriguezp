@@ -1,6 +1,6 @@
 # rodriguezp
-Más creaciones de documentos públicos.
-En este caso se usará una template con bootstrap 4 para 'adelantar' trabajo.
+Creación de CV para Patricia R.
+En este caso se usará una template con bootstrap 4 para 'adelantar' trabajo y no hacerlo tan largo 'ya que lo necesita para ya'.
 
 # Estructura
 ---------------------------------------------------------------------------------
